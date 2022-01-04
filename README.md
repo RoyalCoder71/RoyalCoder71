@@ -12,7 +12,6 @@
 </p>
 <br>
 
-[![Yeaseen Ahmed' Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&custom_title=Yeaseen%20Ahmed's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
