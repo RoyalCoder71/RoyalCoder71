@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yeaseen-564/yeaseen-564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,5 @@ Here are some ideas to get you started:
 </p>
 <hr />
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hijikesh-hijal-6115a5135/)
-[![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/hiijal)
 
-<hr />
+
