@@ -14,6 +14,11 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=yeaseen-564&layout=compact&show_icon=true&theme=algolia" alt="tyeaseen-564-stats"/>
 </div>
 
+##
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=yeaseen-564&theme=algolia&background=0d1117&hide_border=true" />
+
+</div>
 
 
 ##
