@@ -9,8 +9,8 @@
   
 - Name:Yeaseen Ahmed
 - I'm a student at High School
-- I’m currently working on many small  projects.
-- I’m currently learning Programming Language[Dart,Python,Java].
+- I’m currently working on many small  projects using python
+- I’m currently learning Programming Language[Dart and Flutter].
 - I play PC games,Badminton,Cricket
 
 
