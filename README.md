@@ -25,9 +25,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=yeaseen-564&theme=algolia&background=0d1117&hide_border=true" />
 
 </div>
-  ##
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeaseen564&langs_count_private=true&theme=radical&card_width=445)<br><br>
-
+ 
 
 
 ##
