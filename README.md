@@ -30,14 +30,15 @@
 
 ##
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
-  (in the last 365 days, languages pie based on number of commits)
 ##
-![](./profile-3d-contrib/profile-night-green.svg)
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=somekindofwallflower&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=radical" alt="somekindofwallflower" />
+</p>
 
-<br/>
-<h3 align="center">
-	⬇ Check my pinned projects below and leave a ⭐️ ⬇
-</h3>
+<!-- <p align="center"> 
+  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somekindofwallflower&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
+</p> -->
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
