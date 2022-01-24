@@ -30,6 +30,15 @@
 
 ##
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
+  (in the last 365 days, languages pie based on number of commits)
+##
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+<h3 align="center">
+	⬇ Check my pinned projects below and leave a ⭐️ ⬇
+</h3>
+
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
