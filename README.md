@@ -25,8 +25,7 @@ or <a href="mailto:shekhyeaseeen@gmail.com"><b>email</b></a> me
 </br>
 </br>
 ##
-<h1 align="center">Hi All The Programmers' I AM <a href="https://github.com/yeaseen-564">Yeaseen Ahmed<a></h1>
-<Br>
+
 <h1>Yeaseen Ahmed's Identity:</h1>
   
 - I'm a student at High School
