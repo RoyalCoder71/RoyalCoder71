@@ -12,9 +12,15 @@
 - I’m currently working on many small  projects using python
 - I’m currently learning Programming Language[Dart and Flutter].
 - I play PC games,Badminton,Cricket
-##
-[Click here to ask or suggest anything about my repositories!](https://github.com/yeaseen-564/yeaseen-564r/issues/new) <img           src='https://raw.githubusercontent.com/Yeaseen-564/yeaseen-564/main/Assets/handshake.gif' width="100px"><br><br>
 
+  
+  
+# Contributions
+  
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+<h3 align="center">
 
 ##
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
