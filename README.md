@@ -1,8 +1,30 @@
 
 
 ##
+##
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+
+<div align="center" width="50">
 
 
+You have finally discovered my Github profile. <br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/Yeaseen-564/yeaseen-564/issues/new"><b>here</b></a><br>
+or <a href="mailto:shekhyeaseeen@gmail.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeaseen-564&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yeaseen Ahmed's Github Stats">
+
+</br>
+</br>
+##
 <h1 align="center">Hi All The Programmers' I AM <a href="https://github.com/yeaseen-564">Yeaseen Ahmed<a></h1>
 <Br>
 <h1>Yeaseen Ahmed's Identity:</h1>
@@ -28,7 +50,7 @@
  
 
 ##
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
 
