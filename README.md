@@ -12,6 +12,12 @@
 - I’m currently working on many small  projects using python
 - I’m currently learning Programming Language[Dart and Flutter].
 - I play PC games,Badminton,Cricket
+##
+[Click here to ask or suggest anything about my repositories!](https://github.com/yeaseen-564/yeaseen-564r/issues/new) <img           src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"><br><br>
+
+
+##
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
 
 
 ##
@@ -28,17 +34,7 @@
  
 
 
-##
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
-##
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=somekindofwallflower&show_icons=true&locale=en&theme=radical"                alt="somekindofwallflower"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=somekindofwallflower&theme=radical" alt="somekindofwallflower" />
-</p>
 
-<!-- <p align="center"> 
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somekindofwallflower&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
-</p> -->
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
