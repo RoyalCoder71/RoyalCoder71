@@ -23,8 +23,8 @@ or <a href="mailto:shekhyeaseeen@gmail.com"><b>email</b></a> me
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeaseen-564&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yeaseen Ahmed's Github Stats">
 
 </br>
-</br>
-##
+
+
 
 <h1>Yeaseen Ahmed's Identity:</h1>
   
@@ -50,10 +50,7 @@ or <a href="mailto:shekhyeaseeen@gmail.com"><b>email</b></a> me
 
 ##
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=yeaseen-564&theme=react-dark&hide_border=true&area=true)
 
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 
-
+<br/>
