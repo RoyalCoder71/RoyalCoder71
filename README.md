@@ -9,8 +9,10 @@
 <div align="center" width="50">
 
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+You have finally discovered my Github profile. 
+<br>
+Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
+<br>
 Ask me anything <a href="https://github.com/Yeaseen-564/yeaseen-564/issues/new"><b>here</b></a><br>
 or <a href="mailto:shekhyeaseeen@gmail.com"><b>email</b></a> me
 
